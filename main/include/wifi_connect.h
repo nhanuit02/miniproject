@@ -12,8 +12,8 @@
 #define WIFI_CONNECTED_BIT BIT0
 #define WIFI_FAIL_BIT      BIT1
 
-#define WIFI_SSID "KTMT - SinhVien"
-#define WIFI_PASS "sinhvien"
+#define WIFI_SSID "Tepbac.com"
+#define WIFI_PASS "unicorn2025"
 
 void event_handler(void* , esp_event_base_t , int32_t , void* );
 void wifi_init_start(void);

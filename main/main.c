@@ -24,7 +24,7 @@ extern int err;
 //         },
 //         .credentials = {
 //             .username = "WSVFxw7Lhodp2v6zSqYQiNHIAwvodbTXTEseYpN5ERjuafTStFyBg47HqtVruCeb",
-//             .client_id = "phuc",
+//             .client_id = "nhan",
 //             .authentication.password = ""
 //         },
 //         .session = {
@@ -45,7 +45,7 @@ esp_mqtt_client_config_t mqtt_cfg = {
         },
         .credentials = {
             .username = "eXUeRHMZWmaE7CqW9nj2Peio1iKtDrNFdyHS3jGNtGgq6wa6KjYpn5CdbcuCs87v",
-            .client_id = "phuc",
+            .client_id = "nhan",
             .authentication.password = ""
         },
         .session = {

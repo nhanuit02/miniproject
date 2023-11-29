@@ -3,6 +3,6 @@
     "files.associations": {
         "font8x8_basic.h": "c"
     },
-    "idf.portWin": "COM5",
+    "idf.portWin": "COM6",
     "idf.flashType": "UART"
 }
